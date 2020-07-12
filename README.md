@@ -4,7 +4,7 @@ In my day job, I create identity solutions for customers and develop commercial 
 
 I mainly work with C# and ASP.NET Core, but otherwise, I dabble with languages such as Kotlin, Go, and Typescript.
 
-I sometimes make an appearance on the speaking circuit, whether it's user groups, conferences, or recorded mediums.
+I sometimes make an appearance on the speaking circuit, whether it's user groups, conferences, or recorded.
 
 👨‍🔧 **Personal site:** https://www.scottbrady91.com
 

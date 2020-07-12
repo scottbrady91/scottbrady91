@@ -8,4 +8,4 @@ I sometimes make an appearance on the speaking circuit, whether it's user groups
 
 👨‍🔧 **Personal site:** https://www.scottbrady91.com
 
-🐤 **Twitter:** https://twitter.com/scottbrady91
+🐤 **Twitter:** [https://twitter.com/scottbrady91](https://twitter.com/intent/user?screen_name=scottbrady91)

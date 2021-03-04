@@ -1,3 +1,5 @@
+**I help developers learn OAuth and web security.**
+
 **Identity & Access Control Lead** at Rock Solid Knowledge, **Pluralsight Author**, and **Speaker**. I specialize in IdentityServer and all things Authentication, Identity, OAuth, and OpenID Connect.
 
 In my day job, I create identity solutions for customers and develop commercial IdentityServer products. This allows me to not only play with older protocols such as SAML & WS-Federation but also cutting edge technologies such as FIDO2.

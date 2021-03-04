@@ -8,4 +8,8 @@ I sometimes make an appearance on the speaking circuit, whether it's user groups
 
 👨‍🔧 **Website:** [scottbrady91.com](https://www.scottbrady91.com/hello)
 
+👨‍💼 **Consultancy:** [identityserver.com](https://www.identityserver.com)
+
 🐤 **Twitter:** [@scottbrady91](https://twitter.com/intent/user?screen_name=scottbrady91)
+
+💼 **LinkedIn:** [scottbrady91](https://www.linkedin.com/in/scottbrady91/)

@@ -8,7 +8,7 @@ I mainly work with C# and ASP.NET Core, but otherwise, I dabble with languages s
 
 I sometimes make an appearance on the speaking circuit, whether it's user groups, conferences, or recorded.
 
-👨‍🔧 **Website:** [scottbrady91.com](https://www.scottbrady91.com/hello)
+👨‍🔧 **Website:** [scottbrady91.com](https://www.scottbrady91.com)
 
 👨‍💼 **Consultancy:** [identityserver.com](https://www.identityserver.com)
 
